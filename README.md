@@ -14,3 +14,4 @@ This Python application demonstrates fundamental programming concepts by collect
 
 * [Python](https://www.python.org/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
+* [Git](https://git-scm.com/)
