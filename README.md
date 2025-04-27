@@ -6,9 +6,9 @@ This Python application demonstrates fundamental programming concepts by collect
 
 # Development Environment
 
-*Python 3.13.3
-*Vscode
-*Git
+* Python 3.13.3
+* Vscode
+* Git
 
 # Useful Websites
 
